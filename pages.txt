@@ -1,0 +1,15 @@
+login page
+Registration Page	
+Home page
+Product Page
+Cart
+Profile Page	
+Check out Page
+About US Page
+Contact Us Page
+Track Order Page
+Creator Portfolio
+Creator Product page
+
+
+
